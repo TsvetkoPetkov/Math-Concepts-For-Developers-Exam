@@ -6,6 +6,10 @@
 •	What is a spectrogram and how to interpret it?
 •	Audio formats and how they compress the audio?
 
+How does the Fourier transform work?
+- Provide one (or more) examples with code
+- Optionally, show plots of some common functions (sine, step, pulse, sinc, gaussian) and their Fourier spectrums
+
 2.	Filters
 •	High-pass / low-pass
 •	Band-pass / band-stop
@@ -13,7 +17,7 @@
 •	How noise cancelling in headphones work?
 
 3.	Audio effects
-•	Reverb, chorus, delay, etc.
+•	Reverb, chorus, delay, etc. and how they work?
 •	What are convolutions and how to apply them to audio signals?
 
 4.	Audio Analysis Tools
