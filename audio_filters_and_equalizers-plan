@@ -1,6 +1,7 @@
 1.	Introduction
 •	What is an audio signal?
 •	How is the audio recorded from a computer microphone?
+- ADC
 •	What is sample width, sample rate(frequency), decibels?
 •	How these things affect the quality of the audio?
 •	What is a spectrogram and how to interpret it?
