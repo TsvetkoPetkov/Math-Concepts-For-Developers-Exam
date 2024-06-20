@@ -1,11 +1,9 @@
 1.	Introduction
-•	What is an audio signal? *
-•	How is the audio recorded from a computer microphone?
-- ADC
-•	What is sample width, sample rate(frequency), decibels? *
-•	How these things affect the quality of the audio? 
-•	What is a spectrogram and how to interpret it?
-•	Audio formats and how they compress the audio?
+*	What is an audio signal? *
+*	What is sample width, sample rate(frequency), decibels? *
+*	How these things affect the quality of the audio? 
+*	What is a spectrogram and how to interpret it?
+* What is time domain? What is frequency domain?
 
 How does the Fourier transform work?
 - Provide one (or more) examples with code
@@ -14,20 +12,7 @@ How does the Fourier transform work?
 2.	Filters
 •	High-pass / low-pass
 •	Band-pass / band-stop
-•	Background noise suppression
-•	How noise cancelling in headphones work?
 
 3.	Audio effects
 •	Reverb, chorus, delay, etc. and how they work?
 •	What are convolutions and how to apply them to audio signals?
-
-4.	Audio Analysis Tools
-•	Pitch Detection: Implement algorithms to detect the pitch of the audio.
-•	Beat Detection: Analize the audio to find the beats and tempo.
-•	Harmony and Melody Analysis: Extract musical features like harmony and melody from the audio.
-
-
-*	Create a class called AudioProcessing. 
-*	Implement all the filters, effects and analysis tools as a functions that accept audio signal and its parameters. 
-*	Provide visualisations to the functions of the input signal and the output signal in waveform and spectrogram format. 
-*	Provide audio examples to each of the function before and after processing the audio.
